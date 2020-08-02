@@ -18,8 +18,22 @@ This code was refactored by creating one For loop to loop through all of the dat
 For 2017, our new refactored code ran in 0.1484375 seconds versus the original code that ran at 0.9609375 seconds. 
 For 2018, our new refactored code ran in 0.1484375 seconds versus the original code that ran at 1.109375 seconds. 
 This shows that our adjustments within the new refactored code significantly reduced our run time for the 2017 and 2018 scripts. 
-- insert screen shots 
 
+**2017 Original Script Run Time**
+
+<img width="238" alt="VBA_Challenge_2017_originalscript" src="https://user-images.githubusercontent.com/67871338/89126945-e1c35500-d4b7-11ea-8aad-c7955bfe049e.PNG">
+
+**2017 Refactored Script Run Time**
+
+<img width="236" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/67871338/89126954-e8ea6300-d4b7-11ea-99b4-37e6e8993a85.PNG">
+
+**2018 Original Script Run Time**
+
+<img width="233" alt="VBA_Challenge_2018_originalscript" src="https://user-images.githubusercontent.com/67871338/89126962-f0aa0780-d4b7-11ea-89a0-e3a4e73d4f7c.PNG">
+
+**2018 Refactored Script Run Time**
+
+<img width="237" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/67871338/89126961-ee47ad80-d4b7-11ea-918b-663086110a90.PNG">
 
 ## Summary
 Advantages of refactoring code: faster run time, improving efficiency, making code easier to read and understand, using less memory with less steps, and ultimately reducing "code smell" overall.
