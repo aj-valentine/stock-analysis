@@ -8,7 +8,10 @@ This project was created for Steve in order to give information about the stock 
 This code was written in order to create analysis on ticker volume and difference between year end stock price and beginning year stock price to calculate yearly return for 2017 and 2018. 
 When comparing stock performance between 2017 and 2018, 2017 as a whole had higher daily volumes and more successful yearly returns across all of the tickers. The only negative return for 2017 was for ticker TERP. 
 2018, on the other hand, saw much lower daily volume averages, and only had two out of twelve positive ticker returns. 
-- insert 2017 and 2018 screen shots 
+
+<img width="214" alt="2017_Stock Results" src="https://user-images.githubusercontent.com/67871338/89126903-9e68e680-d4b7-11ea-8589-c1565522dc4a.PNG">
+
+<img width="212" alt="2018_Stock Results" src="https://user-images.githubusercontent.com/67871338/89126906-a45ec780-d4b7-11ea-8c4f-65ce82f93914.PNG">
 
 ### Refactored Code Time Improvement
 This code was refactored by creating one For loop to loop through all of the data, which decreased run time in both the 2017 and 2018 script run. 
