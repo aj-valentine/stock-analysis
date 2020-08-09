@@ -1,4 +1,4 @@
-# VBA Stock Analysis
+# Stock Analysis using VBA
 
 ## Overview of Project :chart_with_upwards_trend:
 This project was created for Steve in order to give information about the stock market over 2017 and 2018. It includes detailed analysis on total daily volume and yearly return performance across 12 different tickers. 
